@@ -1,0 +1,6 @@
+[submodule "external/DiffusionDet"]
+	path = external/DiffusionDet
+	url = https://github.com/varnan6/DiffusionDet.git
+[submodule "external/DEIM"]
+	path = external/DEIM
+	url = https://github.com/varnan6/DiffusionDet.git
