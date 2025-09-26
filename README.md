@@ -5,6 +5,7 @@
 <img src = "misc/flowchart.jpg">
 
 <hr>
+
 ## Table of Content   
 
 * [1. Model Zoo](https://github.com/varnan6/Seaclear_DETR_benchmark?tab=readme-ov-file#1-model-zoo)
