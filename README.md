@@ -2,6 +2,8 @@
 
 <p align = "center"> Placeholder for summary of abstract </p>
 
+<img src = "misc/flowchart.jpg">
+
 <hr>
 
 ## Table of Content   
